@@ -27,4 +27,7 @@ while (true)
 }
 ```
 
+**note (VERY important!)**:
+Increase stack size limit before running `ctest`!
+
 Project at Fixstarts (2023 Feb. - Apr.)
